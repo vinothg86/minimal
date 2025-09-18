@@ -1,6 +1,14 @@
-title: Minimal theme
+title: <p align="center"> Vinoth Ganapathy </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/">LinkedIn</a> |
+  <a href="https://github.com/">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Worked with SAP Labs at Bangalore.
+  <br>
+  </p>
 theme: jekyll-theme-minimal
